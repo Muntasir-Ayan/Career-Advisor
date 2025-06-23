@@ -57,4 +57,5 @@ pip install -r requirements.txt
 4. **Run the app:**
 ```bash
 streamlit run app.py
-``
+```
+![image](https://github.com/user-attachments/assets/e9b090b0-6808-4246-b37a-204405214b9f)
